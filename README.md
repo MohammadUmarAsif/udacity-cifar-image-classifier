@@ -1,5 +1,5 @@
 
-# Udacity Project: CIFAR-10 Image Classifier
+# Udacity Project: CIFAR-10 Image Classification
 ## Nanodegree (Intro to Machine Learning with Pytorch)
 
 ### Description
