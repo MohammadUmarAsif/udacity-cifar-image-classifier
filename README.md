@@ -36,11 +36,11 @@ This project contains three files:
 Run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook image_classifier.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook image_classifier.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
