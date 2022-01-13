@@ -32,11 +32,8 @@ This project contains three files:
 - `report.html`: HTML file of the ipynb notebook.
 - `checkpoint.pth`: Final model parameters saved.
 
-### Code
-Template code & implementation is provided in the `finding_donors.ipynb` notebook file. `visuals.py` Python file and the `census.csv` dataset file are required to complete the work. While some code has already been implemented, additional functionality is implemented where requested to successfully complete the project. Code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate.
-
 ### Run
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+Run one of the following commands:
 
 ```bash
 ipython notebook finding_donors.ipynb
